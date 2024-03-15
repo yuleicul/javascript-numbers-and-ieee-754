@@ -2,6 +2,12 @@
 
 This sharing is about JavaScript Numbers and IEEE 754.
 
+## References
+
+[IEEE-754 Floating Point representation explained](https://bartaz.github.io/ieee754-visualization/)
+
+[Bartek Szopka: Everything you never wanted to know about JavaScript numbers -- JSConf EU 2013 - YouTube](https://www.youtube.com/watch?v=MqHDDtVYJRI)
+
 ## Outline
 
 - Unexpected behaviors
