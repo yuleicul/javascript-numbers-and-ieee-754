@@ -1,12 +1,20 @@
 # 0.1 + 0.2 ≠ 0.3
 
-This sharing is about JavaScript Numbers and IEEE 754.
+This is a knowledge sharing about JavaScript Numbers and IEEE 754.
+
+Recording: [Talk Clone: Everything You Never Wanted to Know About JavaScript Numbers by Bartek Szopka @jsconf\_ - YouTube](https://www.youtube.com/watch?v=1rfE8P5T6Yo&t=1480s)
+
+Slides: [0.1 + 0.2 ≠ 0.3 ? - Slidev](https://javascript-numbers-and-ieee-754.vercel.app/1)
 
 ## References
 
 [IEEE-754 Floating Point representation explained](https://bartaz.github.io/ieee754-visualization/)
 
 [Bartek Szopka: Everything you never wanted to know about JavaScript numbers -- JSConf EU 2013 - YouTube](https://www.youtube.com/watch?v=MqHDDtVYJRI)
+
+<details>
+
+<summary>Outline draft</summary>
 
 ## Outline
 
@@ -47,3 +55,5 @@ This sharing is about JavaScript Numbers and IEEE 754.
     - 0
     - Infinity
     - NaN
+
+</details>
